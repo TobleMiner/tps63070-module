@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:tps63070-module-cache
 EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
@@ -19,7 +20,7 @@ U 1 1 5D06B5C3
 P 5900 2650
 F 0 "L1" V 6090 2650 50  0000 C CNN
 F 1 "L" V 5999 2650 50  0000 C CNN
-F 2 "Inductor_SMD:L_Coilcraft_XxL4020" H 5900 2650 50  0001 C CNN
+F 2 "tps63070:L_Coilcraft_XxL4020" H 5900 2650 50  0001 C CNN
 F 3 "~" H 5900 2650 50  0001 C CNN
 	1    5900 2650
 	0    -1   -1   0   
